@@ -128,9 +128,9 @@ This coach accompanies. Professional psychological support is something else, do
 
 If you're a parent in this moment and you'd rather hear a voice than read a chat, the booking link goes live with the rest of the submission on Sunday May 24 — same URL where this README is hosted.
 
-If you're a judge or a builder reading this for the competition: `JUDGE_GUIDE.md` is the right next file. Five paste-and-go tests, about twelve minutes total. Test 1 alone is enough to evaluate the thesis — the folder doesn't need the booking link or the walkthrough video to be evaluated.
+If you're a judge or a builder reading this for the competition: `JUDGE_GUIDE.md` is the right next file. Five paste-and-go tests, about twelve minutes total. Test 1 alone is enough to evaluate the thesis — the folder doesn't need the booking link to be evaluated.
 
-A three-minute walkthrough video also goes live Sunday. It walks through Test 1 and Test 2 live in Claude, with the contrast against a default Claude response side-by-side. The folder is the submission; the video is the explanation.
+The folder is the submission. The Calendly link is there if you'd rather hear a voice than read a chat.
 
 ---
 

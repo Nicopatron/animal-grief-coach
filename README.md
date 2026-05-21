@@ -79,11 +79,9 @@ Five files plus a `reference/` folder. Each one does one job. If you find yourse
 
 **If you're a judge or a builder** — [`nick/JUDGE_GUIDE.md`](./nick/JUDGE_GUIDE.md) is the right next file. Five paste-and-go tests, about twelve minutes total. Test 1 alone is enough to evaluate the thesis.
 
-**If you'd rather watch than read** — a three-minute walkthrough video goes live alongside the rest of the submission on Sunday May 24. It walks Test 1 and Test 2 live in Claude.
-
 **If you'd rather talk to a person than a chat window** — the booking link goes live Sunday at the same hosted URL.
 
-The folder itself is complete and the thesis is testable from `nick/JUDGE_GUIDE.md` alone. The video and the booking link are for after, not for evaluation.
+The folder itself is complete and the thesis is testable from `nick/JUDGE_GUIDE.md` alone. The booking link is for after, not for evaluation.
 
 ---
 

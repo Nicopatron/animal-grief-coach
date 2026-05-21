@@ -221,11 +221,6 @@
            class="block w-full py-4 px-6 border border-ink text-ink serif text-lg text-center hover:bg-ink/5 transition-colors">
           Talk to a person &mdash; 30 min
         </a>
-
-        <a id="cta-loom" href="#" target="_blank" rel="noopener"
-           class="block w-full py-4 px-6 border border-line text-ink serif text-lg text-center hover:bg-line/30 transition-colors">
-          Watch the 3-minute walkthrough
-        </a>
       </div>
 
       <p class="text-mute text-sm leading-relaxed mt-10 text-center">
@@ -250,8 +245,7 @@
     // Until they are, buttons are visibly marked as pending.
     var urls = {
       repo: '__REPO_URL__',
-      calendly: '__CALENDLY_URL__',
-      loom: '__LOOM_URL__'
+      calendly: '__CALENDLY_URL__'
     };
 
     function applyUrl(id, key, label) {
@@ -270,7 +264,6 @@
 
     applyUrl('cta-repo', 'repo', 'See the repo on GitHub');
     applyUrl('cta-calendly', 'calendly', 'Talk to a person — 30 min');
-    applyUrl('cta-loom', 'loom', 'Watch the 3-minute walkthrough');
   </script>
 </body>
 </html>
