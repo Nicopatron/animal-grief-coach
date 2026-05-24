@@ -181,5 +181,5 @@ If a mirror question I'm about to give doesn't match all five, I cut it and try 
 ## See also
 
 - `../rules.md` § 2 — the mirror question mechanic in full
-- `../examples.md` — six worked transcripts, several of which open with one of these resistances
+- `../examples.md` — seven worked transcripts, several of which open with one of these resistances
 - `initial-conversation.md` — what the first turn looks like across all five message shapes

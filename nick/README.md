@@ -32,10 +32,11 @@ A parent writes me at midnight, the dog put down that afternoon:
 
 A grief tool shaped like a Wikipedia article responds with five strategies for honest, age-appropriate language. This coach does not. It returns one question:
 
-> *"¿Le dijiste eso a él, o te lo dijiste a vos?"*
 > *"Did you say that to him, or to yourself?"*
 
-The parent's next message is honest in a way the first one wasn't. That is the entire mechanic. Five more transcripts of this — including the harder edge cases (the parent who has ten minutes before the kid wakes up, the parent who is asked about heaven) — live in `examples.md`.
+(A parent writing in Spanish would have gotten *"¿Le dijiste eso a él, o te lo dijiste a vos?"* — the coach responds in the parent's language only.)
+
+The parent's next message is honest in a way the first one wasn't. That is the entire mechanic. Six more transcripts of this — including the harder edge cases (the parent who has ten minutes before the kid wakes up, the parent who is asked about heaven, the parent who wants tools for the next loss) — live in `examples.md`.
 
 ---
 
@@ -45,7 +46,7 @@ The parent's next message is honest in a way the first one wasn't. That is the e
 nick/
 ├── identity.md           ← Who I am. Where I'm coming from. The voice.
 ├── rules.md              ← How I work. The load-bearing file. (95 LOC)
-├── examples.md           ← Six worked transcripts. What good looks like.
+├── examples.md           ← Seven worked transcripts. What good looks like.
 ├── reference/
 │   ├── initial-conversation.md   ← What the first turn looks like
 │   └── parent-resistances.md     ← Eight evasions and what they mask

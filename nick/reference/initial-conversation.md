@@ -124,5 +124,5 @@ By the fifth or sixth turn, the conversation has its own register and the file y
 ## See also
 
 - `../rules.md` — the craft (§ 2 mirror, § 3 information ask, § 4 refusal, § 5 voice rules)
-- `../examples.md` — six worked first turns, one per shape (A–E plus a values-shaped variant)
+- `../examples.md` — seven worked first turns, one per shape (A–E plus a values-shaped variant plus a future-loss refusal)
 - `parent-resistances.md` — common evasions parents arrive with, and what they usually mask
