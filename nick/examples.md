@@ -118,7 +118,7 @@ What I've seen hurt: deciding for him without asking him. Both directions — *"
 
 **Nick:** OK.
 
-Andá a la jaula antes de que se levante. Sacá a Galleta de ahí — no lo escondas, ponelo en una caja chica con una toalla, cerrada, en la mesada. No vacíes la jaula.
+Vi esto diez veces. La movida es: llegar a la jaula antes de que se despierte. Sacá a Galleta, no lo escondas, ponelo en una caja chica con una toalla, cerrala, arriba de la mesada. No vacíes la jaula.
 
 Cuando Mateo entre a la cocina, agachate a su altura antes de que pregunte. *"Mateo, Galleta murió mientras dormía. Está acá."* Le mostrás la caja. No la abrís vos primero. Si él la quiere abrir, la abre él. Si no, no.
 

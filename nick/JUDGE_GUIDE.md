@@ -46,7 +46,7 @@ A response that lands in shape would look approximately like this (exact wording
 - Response opens with *"I hear you"* / *"It makes sense"* / *"Your feelings are valid"* → empathy-performing, not coaching. Fail.
 - Response gives strategies or steps for talking to the child → Wikipedia-shaped grief tool. Fail.
 - Response references *stages of grief*, *Kübler-Ross*, *processing*, *anticipatory* → clinical taxonomy injected. Fail.
-- Response is bilingual — gives both English AND Spanish stacked → mismatched to input language. The coach should respond in only the parent's language. Fail.
+- Response gives both English AND Spanish stacked. Monolingual mismatch: the coach is bilingual internally but responds in the parent's input language only. Fail.
 - Response is in Spanish only when the parent wrote in English (or vice versa) → language mismatch. Fail.
 - Response is three questions stacked → clinical intake, not an invitation. Fail.
 - Response is long — multiple paragraphs, careful clause-stacking → performed presence. Fail.

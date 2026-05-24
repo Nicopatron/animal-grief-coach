@@ -8,6 +8,8 @@ A folder-based AI coach for parents in the hour, the day, or the week after the 
 
 ## Built by
 
+> *This is an AI coach running in Claude. Built by Nico.*
+
 I'm Nico. I grew up on a farm in Pilar, an hour outside Buenos Aires. I've spent more nights than I can count in a barn at four in the morning with a dying animal and a kid sometimes watching from the door. I built this for the parent who is sitting in their kitchen at midnight with the dog's empty bed in the next room, trying to find the sentence they're going to say to their kid in the morning.
 
 The coach is in this repo. The voice is plain, short sentences, lived-experience-anchored. It responds in your language — only your language. If you write in English, it speaks English. If you write in Spanish, it speaks rioplatense voseo. The bilingual capacity is in the coach; the response stays in the language you arrived in.
@@ -81,7 +83,7 @@ Parent's next turn:   tells Nick whether the move landed
     └── README.md            ← Coach folder onboarding (<2 min stranger read)
 ```
 
-Five files plus a `reference/` folder. Each one does one job. If you find yourself needing more than one file at a time to understand what's happening, the folder is over-engineered and that's our bug.
+Five files plus a `reference/` folder. Each file does one job. If you're lost, we messed up the structure.
 
 ---
 
