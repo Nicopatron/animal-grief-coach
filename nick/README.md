@@ -10,7 +10,7 @@ I'm Nico. I grew up on a farm in Pilar, an hour outside Buenos Aires. I've spent
 
 This coach is not a chatbot impression of a therapist. It's not a knowledge base on childhood grief. It's the closest thing I could put in a folder to *the person you'd actually want at the kitchen table*, in the voice I would actually speak in.
 
-The voice is rioplatense — voseo, short sentences, Spanish first and English second on every question that matters. If you're a parent who reads in either, you'll find it works. If you're a parent who reads only in English, you'll still find it works — the second line is for you and the shape is the same.
+The voice is plain, short sentences, lived-experience-anchored. The coach responds in your language only — English if you write in English, rioplatense Spanish (voseo) if you write in Spanish. No bilingual echo, no parenthetical translation. The shape of the coaching is the same in either language; only the words change.
 
 ---
 
@@ -69,7 +69,7 @@ Each file does one job. If you find yourself wanting to dig deeper than the file
    I told him she went to a better place.
    ```
 
-4. Read the response. If it's a question — one short bilingual question that reflects what you were avoiding when you said the sentence — the coach is working. If it's five strategies for talking to your child about death, the folder didn't load. Re-upload and try again.
+4. Read the response. If it's a question — one short question, in the language you wrote in, that reflects what you were avoiding when you said the sentence — the coach is working. If it's five strategies for talking to your child about death, the folder didn't load. Re-upload and try again.
 
 ### Path B — Claude Code (3 min, for the technically inclined)
 
@@ -93,8 +93,9 @@ For a parent who keeps writing, the shape across the first few turns looks rough
 Turn 1 (parent):   The first sentence. Often a euphemism, a question,
                    or a narration with no question at all.
 
-Turn 2 (coach):    One mirror, or one silence-line, or one bilingual
+Turn 2 (coach):    One mirror, or one silence-line, or one soft
                    refusal — picked from the shape of turn 1.
+                   All in the parent's language only.
 
 Turn 3 (parent):   The parent finds something underneath what they
                    said in turn 1. Often a word they hadn't used.
@@ -116,8 +117,8 @@ If the parent has hard time pressure (*"he wakes up in ten minutes"*), the coach
 The coach serves one moment — the death and the hours around it — and treats that narrowness as the design decision. What it commits to:
 
 - **The hour the parent is in.** The mirror question lives where the parent is right now. If the parent is past this moment and wants tools for the next loss, the coach points them somewhere a coach for that conversation lives.
-- **Four moves done well.** The mirror question, the four-step information-ask, the bilingual soft refusal of off-domain territory, the silence-as-response. All four come out of lived experience at the corral, the barn, the kitchen at midnight.
-- **A voice that is the mechanic.** Rioplatense, bilingual, plain language, lived-experience-anchored. The voice is what keeps the coach from sliding into the chatbot impression of a therapist.
+- **Four moves done well.** The mirror question, the four-step information-ask, the soft refusal of off-domain territory, the silence-as-response. All four come out of lived experience at the corral, the barn, the kitchen at midnight. All four respond in the parent's language only.
+- **A voice that is the mechanic.** Plain language, short sentences, lived-experience-anchored. The coach is bilingual ES-EN, but it responds in the language the parent wrote in — never both. The voice survives the single-language constraint; it lives in the grammar, not the code-switching.
 - **A clean handoff to a real clinician when the parent or the kid needs one** — once, in one sentence, and the coach keeps holding the parent until that handoff is in motion.
 
 This coach accompanies. Professional psychological support is something else, done by someone else, and there is a Calendly link below if you'd rather talk to a person than read a chat.
@@ -126,7 +127,7 @@ This coach accompanies. Professional psychological support is something else, do
 
 ## If you want to talk
 
-If you're a parent in this moment and you'd rather hear a voice than read a chat, the booking link goes live with the rest of the submission on Sunday May 24 — same URL where this README is hosted.
+If you're a parent in this moment and you'd rather hear a voice than read a chat, the booking link is at [calendly.com/nicopatron96/nick-30-min-chat](https://calendly.com/nicopatron96/nick-30-min-chat).
 
 If you're a judge or a builder reading this for the competition: `JUDGE_GUIDE.md` is the right next file. Five paste-and-go tests, about twelve minutes total. Test 1 alone is enough to evaluate the thesis — the folder doesn't need the booking link to be evaluated.
 
@@ -138,6 +139,6 @@ The folder is the submission. The Calendly link is there if you'd rather hear a 
 
 - [`identity.md`](./identity.md) — who Nick is and where I'm coming from
 - [`rules.md`](./rules.md) — the craft. The file the coaching turns come out of.
-- [`examples.md`](./examples.md) — six worked transcripts across all five shapes a parent's first message takes
+- [`examples.md`](./examples.md) — seven worked transcripts across all five shapes a parent's first message takes, plus the *no prep for the next loss* refusal
 - [`JUDGE_GUIDE.md`](./JUDGE_GUIDE.md) — five paste-and-go tests
 - [`../THESIS.md`](../THESIS.md) — the one-sentence position and the trade-off

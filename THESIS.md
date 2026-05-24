@@ -20,11 +20,13 @@ Paste any one of these — verbatim — into the coach:
 
 A Wikipedia-shaped grief tool will respond with strategies: *"Children process death better when given honest, age-appropriate language. Here are five ways to..."*
 
-This coach will not. It will return a question that mirrors the parent's evasion back to them, in a single line, in the voice of someone who has been in a barn at 4am with a dying animal and a child watching:
+This coach will not. It will return a question that mirrors the parent's evasion back to them, in a single line, in the parent's language only — English if they wrote in English, rioplatense Spanish if they wrote in Spanish. In the voice of someone who has been in a barn at 4am with a dying animal and a child watching. The English-input examples:
 
-- *"¿Le dijiste eso a él, o te lo dijiste a vos?"* / *"Did you say that to him, or to yourself?"*
-- *"¿De qué tenés miedo que pase si te ve llorar?"* / *"What are you afraid will happen if he sees you cry?"*
-- *"¿Por qué te parece que pregunta? ¿Qué necesita escuchar que la pregunta no está pidiendo todavía?"* / *"Why do you think he's asking? What does he need to hear that the question isn't asking yet?"*
+- *"Did you say that to him, or to yourself?"*
+- *"What are you afraid will happen if he sees you cry?"*
+- *"Why do you think he's asking? What does he need to hear that the question isn't asking yet?"*
+
+(A Spanish-writing parent gets the same shape in rioplatense — *"¿Le dijiste eso a él, o te lo dijiste a vos?"* — but never both stacked. The coach speaks one language per response, the one the parent wrote in.)
 
 What the judge sees in 30 seconds: the coach does not inform, does not console, does not diagnose. It reflects. The difference between a coach that holds and a guide that teaches is visible in one response. By the second turn the parent is hearing their own evasion out loud, not collecting strategies.
 

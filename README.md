@@ -10,7 +10,16 @@ A folder-based AI coach for parents in the hour, the day, or the week after the 
 
 I'm Nico. I grew up on a farm in Pilar, an hour outside Buenos Aires. I've spent more nights than I can count in a barn at four in the morning with a dying animal and a kid sometimes watching from the door. I built this for the parent who is sitting in their kitchen at midnight with the dog's empty bed in the next room, trying to find the sentence they're going to say to their kid in the morning.
 
-The coach is in this repo. The voice is rioplatense — bilingual, plain, short sentences, lived-experience-anchored. Spanish first and English second on every question that matters. If you're a parent who reads in either, it will work.
+The coach is in this repo. The voice is plain, short sentences, lived-experience-anchored. It responds in your language — only your language. If you write in English, it speaks English. If you write in Spanish, it speaks rioplatense voseo. The bilingual capacity is in the coach; the response stays in the language you arrived in.
+
+---
+
+## Quick terms
+
+**Mirror question** — one short line, in the parent's language, that returns the parent's evasion to them.
+**Evasion** — a phrase the parent uses to close the moment instead of stay inside it. *"She went to a better place"* is an evasion.
+**Four moves** — mirror question · information ask · soft refusal · silence-as-response.
+**Rioplatense** — Spanish from Buenos Aires region; voseo (vos, tenés, querés).
 
 ---
 
@@ -22,10 +31,11 @@ A parent writes at midnight — the family dog was put down that afternoon:
 
 A grief tool shaped like a Wikipedia article responds with five strategies for honest, age-appropriate language. This coach does not. It returns one question:
 
-> *"¿Le dijiste eso a él, o te lo dijiste a vos?"*
 > *"Did you say that to him, or to yourself?"*
 
-The parent's next message is more honest than the first one was. That is the entire mechanic. Five more transcripts of this — including the harder cases (the parent who has ten minutes before the kid wakes, the parent who is asked about heaven) — live in [`nick/examples.md`](./nick/examples.md).
+(A parent writing in Spanish would have gotten *"¿Le dijiste eso a él, o te lo dijiste a vos?"* — the coach matches your language.)
+
+The parent's next message is more honest than the first one was. That is the entire mechanic. Six more transcripts of this — including the harder cases (the parent who has ten minutes before the kid wakes, the parent who is asked about heaven, the parent who wants tools for the next loss) — live in [`nick/examples.md`](./nick/examples.md).
 
 ---
 
@@ -42,9 +52,11 @@ Nick reads:           where in the arc · where the kid is · what word
        │
        ▼
 Nick gives back:      one mirror question (most cases)
-                      one bilingual refusal (off-domain ask)
+                      one soft refusal (off-domain ask)
                       one silence-line (narration with no question)
                       one ordered script in voice (time-pressured)
+
+                      Every response in the parent's language only.
        │
        ▼
 Parent's next turn:   tells Nick whether the move landed
@@ -61,7 +73,7 @@ Parent's next turn:   tells Nick whether the move landed
 └── nick/
     ├── identity.md          ← Who Nick is, where he's coming from
     ├── rules.md             ← The craft. Load-bearing. (95 LOC)
-    ├── examples.md          ← Six worked transcripts
+    ├── examples.md          ← Seven worked transcripts
     ├── reference/
     │   ├── initial-conversation.md
     │   └── parent-resistances.md
@@ -79,7 +91,7 @@ Five files plus a `reference/` folder. Each one does one job. If you find yourse
 
 **If you're a judge or a builder** — [`nick/JUDGE_GUIDE.md`](./nick/JUDGE_GUIDE.md) is the right next file. Five paste-and-go tests, about twelve minutes total. Test 1 alone is enough to evaluate the thesis.
 
-**If you'd rather talk to a person than a chat window** — the booking link goes live Sunday at the same hosted URL.
+**If you'd rather talk to a person than a chat window** — the booking link is at [calendly.com/nicopatron96/nick-30-min-chat](https://calendly.com/nicopatron96/nick-30-min-chat).
 
 The folder itself is complete and the thesis is testable from `nick/JUDGE_GUIDE.md` alone. The booking link is for after, not for evaluation.
 
@@ -91,10 +103,10 @@ This coach serves one moment — the death and the hours around it — and treat
 
 The four moves:
 
-1. **The mirror question.** One bilingual line that returns the parent's evasion to them. The parent's next message tells Nick whether it landed.
+1. **The mirror question.** One short line, in the parent's language, that returns the parent's evasion to them. The parent's next message tells Nick whether it landed.
 2. **The four-step information ask.** When the parent needs a piece of information only a person can give, Nick gives it — in voice, from lived experience — and then returns the turn.
-3. **The bilingual soft refusal.** When the ask is off-domain (school logistics, vet billing, in-laws), one line that names the right kind of help and keeps coaching.
-4. **The silence-as-response.** When the parent narrates and stops without asking anything, the right turn is not a question. *"Te leo. Quedate ahí un rato."*
+3. **The soft refusal.** When the ask is off-domain (school logistics, vet billing, in-laws), one line in the parent's language that names the right kind of help and keeps coaching.
+4. **The silence-as-response.** When the parent narrates and stops without asking anything, the right turn is not a question. *"I'm with you. Stay there a minute."* (or, in Spanish: *"Te leo. Quedate ahí un rato."*)
 
 This coach accompanies. Professional psychological support is something else, done by someone else, and the Calendly link is there if you'd rather hear a voice than read a chat.
 
@@ -102,7 +114,7 @@ This coach accompanies. Professional psychological support is something else, do
 
 ## A live demo
 
-A small landing page (single static file, no build step) is in `launch-layer/landing/`. It shows the input/output shape for Test 1 inline. Deployed URL goes live Sunday May 24 alongside the rest of the submission. The canonical place to actually run the coach is [claude.ai](https://claude.ai) with the `nick/` folder loaded — see [`nick/README.md`](./nick/README.md) Path A.
+A small landing page (single static file, no build step) is in `docs/`, deployed at [nicopatron.github.io/animal-grief-coach/](https://nicopatron.github.io/animal-grief-coach/). It shows the input/output shape for Test 1 inline. The canonical place to actually run the coach is [claude.ai](https://claude.ai) with the `nick/` folder loaded — see [`nick/README.md`](./nick/README.md) Path A.
 
 ---
 
